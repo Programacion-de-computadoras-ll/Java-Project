@@ -4,12 +4,11 @@ public class DetalleDeFactura {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ingrese el nombre de la factura:");
+        System.out.print("Ingrese el nombre de la factura: ");
              String nombreFactura = scanner.nextLine();
-        System.out.println("Ingrese el precio del primer producto:");
+        System.out.print("Ingrese el precio del primer producto: ");
              double precio1 = scanner.nextDouble();
-
-        System.out.println("Ingrese el precio del segundo producto:");
+        System.out.print("Ingrese el precio del segundo producto: ");
              double precio2 = scanner.nextDouble();
 
              double totalBruto = precio1 + precio2;
