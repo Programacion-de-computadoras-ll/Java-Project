@@ -5,5 +5,5 @@ Envien el enlace del archivo y no del repertorio
 Integrantes del equipo:
 1.- Luis Mendoza Madriz
 2.- Jose Armando Leal Rodriguez
-3.- Luis Felipe Delgado Carrillo
+3.- Luis Felipe Delgado Morales
 4.- Carlos Ayala Mendoza
